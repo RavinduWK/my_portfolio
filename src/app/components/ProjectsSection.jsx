@@ -7,9 +7,9 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
-    description: "Project 1 description",
-    image: "images/projects/1.png",
+    title: "My Portfolio Website",
+    description: "Next.js ",
+    image: "images/projects/my_portfolio.png",
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "/",
