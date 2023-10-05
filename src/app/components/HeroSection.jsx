@@ -77,7 +77,7 @@ const HeroSection = () => {
         >
           <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative border-4 border-[#FBBF24]">
             <Image
-              src="/images/ravindu_image.jpeg"
+              src="images/ravindu_image.jpeg"
               alt="Ravindu Wickramage"
               className="absolute inset-0 rounded-full"
               width={400} // Adjust the width and height as needed
