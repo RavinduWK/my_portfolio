@@ -44,27 +44,24 @@ const HeroSection = () => {
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-4 lg:text-xl">
             I am a Computer Science and Engineering undergraduate from the
             Department of Computer Science and Engineering, University of
-            Moratuwa, Sri Lanka. I am eager to learn new technologies.I am a
-            full stack web developer with a passion for creating interactive and
-            responsive web applications. I have experience working with
-            JavaScript, React, Node.js, Express, MySQL, HTML, CSS, and Git. I am
-            a quick learner and I am always looking to expand my knowledge and
-            skill set. I am a team player and I am excited to work with others
-            to create amazing applications.
+            Moratuwa, Sri Lanka.
           </p>
+
           <div>
             <Link
-              href="/contact"
+              href="/#contact"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
             >
               Hire Me
             </Link>
+
             <Link
-              href="/"
-              className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
+              href="/Ravindu_Wickramage_CV.pdf"
+              download
+              className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-primary-600 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
-                Download CV
+                Resume
               </span>
             </Link>
           </div>
