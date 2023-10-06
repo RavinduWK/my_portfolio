@@ -10,7 +10,7 @@ const AboutMeSection = () => {
         <h2 className="text-4xl font-bold text-white text-center mt-4 mb-8 md:mb-12">
           About Me
         </h2>
-        <p className="text-base lg:text-lg text-center mx-auto max-w-2xl">
+        <p className="text-xl text-center mx-auto max-w-2xl text-[#ADB7BE]">
           I am a full stack web developer with a passion for creating
           interactive and responsive web applications. I have experience working
           with JavaScript, React, Node.js, Express, MySQL, HTML, CSS, and Git. I
