@@ -110,7 +110,7 @@ const TechStack = () => {
               <div key={techIndex} className="flex flex-col items-center">
                 <div className="text-4xl mb-2">{tech.icon}</div>
                 <h4 className="text-xl font-semibold">{tech.name}</h4>
-                <p className="text-gray-500">{tech.proficiency}</p>
+                <p className="text-gray-400">{tech.proficiency}</p>
               </div>
             ))}
           </div>
